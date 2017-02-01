@@ -1,0 +1,4 @@
+__mocks__
+node_modules
+postman_apis/*
+config.json

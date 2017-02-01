@@ -1,0 +1,4 @@
+{
+    "collectionFile": "./postman_apis/YOUR_COLLECTION.postman_collection.json",
+    "environmentFile": "./postman_apis/YOUR_ENVIRONMENT.postman_environment.json"
+}
